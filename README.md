@@ -1,3 +1,3 @@
 - @JZpal
-- P. Languages: Java, Python
-- Contact me: yjustinzhang2016@gmail.com
+- Java, Python
+- yjustinzhang2016@gmail.com
